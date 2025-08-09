@@ -2,7 +2,7 @@
 
 ![Estado del Proyecto](https://img.shields.io/badge/status-finalizado-green)
 
-Una aplicación web con temática navideña para organizar un sorteo de intercambio
+Una aplicación web con temática para organizar sorteos de intercambios
 de regalos de forma rápida y sencilla. Este proyecto se programó como parte de
 un desafío de programación para mejorar las habilidades de desarrollo web front-end.
 
