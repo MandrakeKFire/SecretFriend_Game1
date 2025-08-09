@@ -36,7 +36,7 @@ sorteos de forma justa y divertida.
 
 Puedes ver el proyecto en vivo y experimentar con él en GitHub Pages.
 
-➡️ **[Página del programa: ]([URL])**
+➡️ **[Página del programa](https://mandrakekfire.github.io/SecretFriend_Game1/)**
 
 ### Cómo usar
 
